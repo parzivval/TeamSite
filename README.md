@@ -1,4 +1,4 @@
-# Team SIte
+# Team Site
 
 Welcome to the website of team "Clinkz"
 
